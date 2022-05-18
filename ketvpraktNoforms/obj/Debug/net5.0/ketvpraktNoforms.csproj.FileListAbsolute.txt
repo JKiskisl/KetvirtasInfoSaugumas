@@ -1,0 +1,16 @@
+C:\Users\smics\Desktop\InfosaugumasNoFORMS\ketvpraktNoforms\ketvpraktNoforms\bin\Debug\net5.0\ketvpraktNoforms.exe
+C:\Users\smics\Desktop\InfosaugumasNoFORMS\ketvpraktNoforms\ketvpraktNoforms\bin\Debug\net5.0\ketvpraktNoforms.deps.json
+C:\Users\smics\Desktop\InfosaugumasNoFORMS\ketvpraktNoforms\ketvpraktNoforms\bin\Debug\net5.0\ketvpraktNoforms.runtimeconfig.json
+C:\Users\smics\Desktop\InfosaugumasNoFORMS\ketvpraktNoforms\ketvpraktNoforms\bin\Debug\net5.0\ketvpraktNoforms.runtimeconfig.dev.json
+C:\Users\smics\Desktop\InfosaugumasNoFORMS\ketvpraktNoforms\ketvpraktNoforms\bin\Debug\net5.0\ketvpraktNoforms.dll
+C:\Users\smics\Desktop\InfosaugumasNoFORMS\ketvpraktNoforms\ketvpraktNoforms\bin\Debug\net5.0\ref\ketvpraktNoforms.dll
+C:\Users\smics\Desktop\InfosaugumasNoFORMS\ketvpraktNoforms\ketvpraktNoforms\bin\Debug\net5.0\ketvpraktNoforms.pdb
+C:\Users\smics\Desktop\InfosaugumasNoFORMS\ketvpraktNoforms\ketvpraktNoforms\obj\Debug\net5.0\ketvpraktNoforms.csproj.AssemblyReference.cache
+C:\Users\smics\Desktop\InfosaugumasNoFORMS\ketvpraktNoforms\ketvpraktNoforms\obj\Debug\net5.0\ketvpraktNoforms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smics\Desktop\InfosaugumasNoFORMS\ketvpraktNoforms\ketvpraktNoforms\obj\Debug\net5.0\ketvpraktNoforms.AssemblyInfoInputs.cache
+C:\Users\smics\Desktop\InfosaugumasNoFORMS\ketvpraktNoforms\ketvpraktNoforms\obj\Debug\net5.0\ketvpraktNoforms.AssemblyInfo.cs
+C:\Users\smics\Desktop\InfosaugumasNoFORMS\ketvpraktNoforms\ketvpraktNoforms\obj\Debug\net5.0\ketvpraktNoforms.csproj.CoreCompileInputs.cache
+C:\Users\smics\Desktop\InfosaugumasNoFORMS\ketvpraktNoforms\ketvpraktNoforms\obj\Debug\net5.0\ketvpraktNoforms.dll
+C:\Users\smics\Desktop\InfosaugumasNoFORMS\ketvpraktNoforms\ketvpraktNoforms\obj\Debug\net5.0\ref\ketvpraktNoforms.dll
+C:\Users\smics\Desktop\InfosaugumasNoFORMS\ketvpraktNoforms\ketvpraktNoforms\obj\Debug\net5.0\ketvpraktNoforms.pdb
+C:\Users\smics\Desktop\InfosaugumasNoFORMS\ketvpraktNoforms\ketvpraktNoforms\obj\Debug\net5.0\ketvpraktNoforms.genruntimeconfig.cache
